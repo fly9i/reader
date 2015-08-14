@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler/crawler.iml" filepath="$PROJECT_DIR$/crawler/crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extractor/extractor.iml" filepath="$PROJECT_DIR$/extractor/extractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extractor-plugin/extractor-plugin.iml" filepath="$PROJECT_DIR$/extractor-plugin/extractor-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ml/ml.iml" filepath="$PROJECT_DIR$/ml/ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reader.iml" filepath="$PROJECT_DIR$/reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webui/webui.iml" filepath="$PROJECT_DIR$/webui/webui.iml" />
+    </modules>
+  </component>
+</project>
