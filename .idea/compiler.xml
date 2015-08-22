@@ -22,20 +22,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="config" />
         <module name="crawler" />
         <module name="extractor" />
         <module name="extractor-plugin" />
         <module name="ml" />
+        <module name="onfig" />
         <module name="webui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="config" target="1.5" />
       <module name="crawler" target="1.5" />
       <module name="extractor" target="1.5" />
       <module name="extractor-plugin" target="1.5" />
       <module name="ml" target="1.5" />
+      <module name="onfig" target="1.5" />
       <module name="reader" target="1.5" />
       <module name="webui" target="1.5" />
     </bytecodeTargetLevel>
